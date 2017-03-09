@@ -1,0 +1,20 @@
+{
+	"name" : "Json",
+	"staplers_owned" : 3,
+	"wpm" : 110,
+	"the_object" :
+	{
+	    "walruses" : 2,
+	    "squirrels" : true,
+	    "unicorns" : false
+	},
+	"an_array" :
+	[
+		{
+			"thing1" : "yes"
+		},
+		{
+			"thing2" : "cheese"
+		}
+	]
+}
